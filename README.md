@@ -1,4 +1,4 @@
-# it-project-management
+# Attendance Management System
 Attendance management system (harees, sadushan, manuka)
 
 ## 📌 Project Screenshots
